@@ -5,6 +5,6 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-add_lunch_combo omni_selene-user
-add_lunch_combo omni_selene-userdebug
-add_lunch_combo omni_selene-eng
+add_lunch_combo twrp_selene-user
+add_lunch_combo twrp_selene-userdebug
+add_lunch_combo twrp_selene-eng
